@@ -1,0 +1,5 @@
+Read-me first - 100y-projeto.base
+
+Como executar:
+
+Ao executar o programa, responda a pergunta com sim ou não. Se a resposta for não, o programa se encerrará. Se sim, digite o seu nome e sua idade e logo após o programa irá fazer o cálculo e te entregar o resultado.
